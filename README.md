@@ -68,7 +68,7 @@
 - Blowfish
 
 ###### 常见的排序算法
-- 快速排序
+- 快速排序 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/快速排序.md)
 - 堆排序
 - 冒泡排序 - [链接](https://github.com/liberalisman/iOS-InterviewQuestion-collection/blob/master/算法集合/冒泡排序.md)
 - 选择排序
@@ -286,6 +286,7 @@
     - 4.各组件之间的解耦合。
 - 6.还了解哪些项目架构？你之前所在公司的架构是什么样的，简单说一下？
 - 7.从宏观上来讲 `App` 可以分为哪些层？
+- 8.多工程连编之静态库 - [链接](https://blog.csdn.net/DonnyDN/article/details/79657986)
 
 ## 消息传递的方式
 
